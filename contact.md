@@ -4,7 +4,7 @@ layout: picture_left
 ---
 
 _**Email address**_<br>
-efrenklak [at] utexas [dot] edu
+efrenklak@utexas.edu
 
 The University of Texas at Austin
 201 E. 24th Street
